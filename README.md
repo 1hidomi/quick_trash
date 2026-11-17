@@ -85,10 +85,7 @@ You can configure the key bindings anytime via:
 
 ## Installation
 
-1. Install **Minecraft Forge 1.20.1** (version 47.x).
-2. Download the latest `quicktrash-x.x.x-1.20.1.jar`.
-3. Drop the `.jar` file into your `.minecraft/mods` folder.
-4. Launch the game and enjoy!
+Drop the `.jar` file into your `.minecraft/mods` folder.
 
 > **Multiplayer Note**: Both the client and the server must have this mod installed for it to work in multiplayer.
 
