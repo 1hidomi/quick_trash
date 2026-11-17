@@ -1,0 +1,7 @@
+{
+    "key.categories.quicktrash": "Quick Trash",
+    "key.quicktrash.delete": "Hold & Swipe to Delete",
+    "key.quicktrash.undo": "Undo Last Deletion",
+    "message.quicktrash.undo_success_count": "§aRestored item: %s x%d",
+    "message.quicktrash.undo_empty": "§cNo deleted items to restore"
+}

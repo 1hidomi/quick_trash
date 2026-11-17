@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: quicktrash
+Specification-Vendor: 1hidomi
+Specification-Version: 1
+Implementation-Title: quicktrash_forge_26.3
+Implementation-Version: 1.0.0-26.3-forge
+Implementation-Vendor: 1hidomi
+Implementation-Timestamp: 2026-11-17T16:06:28+0000
+

@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[66,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="quicktrash"
+version="1.0.0-26.3-forge"
+displayName="Quick Trash"
+authors="1hidomi"
+description='''Swipe with a key pressed to quickly delete items in the inventory, with batch deletion and instant undo.'''
+
+[[dependencies.quicktrash]]
+    modId="forge"
+    mandatory=true
+    versionRange="[66,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.quicktrash]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[26.3,27.0)"
+    ordering="NONE"
+    side="BOTH"
