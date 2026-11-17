@@ -6,38 +6,37 @@ A lightweight, quality-of-life (QoL) Minecraft 1.20.1 mod (compatible with Forge
 
 **Hover over an item and press `D` to delete it instantly.**
 
-![Hover over the item you want to delete](docs/01_hover_before_delete.jpg)
+![Hover over the item you want to delete](https://raw.githubusercontent.com/1hidomi/quicktrash_forge_1.20.1/master/docs/01_hover_before_delete.jpg)
 
 **The item is immediately deleted — a "Lava hisses" sound plays as confirmation.**
 
-![Press D to delete the item](docs/02_press_D_deleted.jpg)
+![Press D to delete the item](https://raw.githubusercontent.com/1hidomi/quicktrash_forge_1.20.1/master/docs/02_press_D_deleted.jpg)
 
 **Hold `D` and drag your cursor across slots to delete multiple items in one smooth swipe.**
 
-![Items restored back to original state including Deepslate](docs/06_undo_result_deepslate_back.jpg)
-![Hold D and swipe to delete multiple items at once](docs/03_swipe_delete_multiple.jpg)
+![Hold D and swipe to delete multiple items at once](https://raw.githubusercontent.com/1hidomi/quicktrash_forge_1.20.1/master/docs/03_swipe_delete_multiple.jpg)
 
 **Press `Z` to undo — the entire deleted batch is restored to your inventory at once.**
 
-![Press Z to undo — items are restored to your inventory](docs/04_undo_restored_hotbar.jpg)
+![Press Z to undo — items are restored to your inventory](https://raw.githubusercontent.com/1hidomi/quicktrash_forge_1.20.1/master/docs/04_undo_restored_hotbar.jpg)
 
 **All stacks from the undo step are returned, even if deleted by a swipe.**
 
-![All stacks from the last deletion are fully restored](docs/05_undo_restored_inventory.jpg)
+![All stacks from the last deletion are fully restored](https://raw.githubusercontent.com/1hidomi/quicktrash_forge_1.20.1/master/docs/05_undo_restored_inventory.jpg)
 
 **Items are restored back to exactly the type and stack size they were before deletion.**
 
-
+![Items restored back to original state including Deepslate](https://raw.githubusercontent.com/1hidomi/quicktrash_forge_1.20.1/master/docs/06_undo_result_deepslate_back.jpg)
 
 ---
 
 ## Features
 
-1. **Swipe-to-Delete (No need for holding)**
+1. **Swipe-to-Delete (Hold & Drag)**
    - **Default Key**: `D` (customizable in controls).
-   - Works in containers as well (inventory, chest, shulker box, crafting table, etc.).
+   - Works only while inside container screens (inventory, chest, shulker box, crafting table, etc.).
    - **Single Delete**: Hover over an item and press `D` to delete it instantly.
-   - **Continuous Swipe**: **Hold down `D` and slide your cursor** across slots to continuously delete items in a fast, fluid motion.
+   - **Continuous Swipe**: **Hold down `D` and drag your cursor** across slots to continuously delete items in a fast, fluid motion.
 
 2. **Delete All Matching Items (Shift + D)**
    - Hover over any item in your inventory or container and press **`Shift + D`**.
@@ -57,7 +56,7 @@ A lightweight, quality-of-life (QoL) Minecraft 1.20.1 mod (compatible with Forge
 
 5. **Full Survival & Creative Support**
    - Works consistently in both Survival and Creative modes.
-   - Uses server-validated C2S network packets ensuring secure multiplayer synchronization (requires the mod on both client and server for multiplayer).
+   - Uses server-validated C2S network packets (`ClearSlotC2SPacket`, `ClearSameItemsC2SPacket`, and `UndoDeleteC2SPacket`) ensuring secure multiplayer synchronization (requires the mod on both client and server for multiplayer).
 
 6. **Satisfying Audio Feedback**
    - Plays a crisp extinguish sound upon deleting items.
@@ -77,8 +76,9 @@ You can configure the key bindings anytime via:
 ## Installation
 
 1. Install **Minecraft Forge 1.20.1** (version 47.x).
-2. Download the latest `quicktrash-x.x.x-1.20.1.jar` from the [Releases](../../releases) page.
+2. Download the latest `quicktrash-x.x.x-1.20.1.jar`.
 3. Drop the `.jar` file into your `.minecraft/mods` folder.
+4. Launch the game and enjoy!
 
 > **Multiplayer Note**: Both the client and the server must have this mod installed for it to work in multiplayer.
 
