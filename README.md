@@ -14,6 +14,7 @@ A lightweight, quality-of-life (QoL) Minecraft 1.20.1 mod (compatible with Forge
 
 **Hold `D` and drag your cursor across slots to delete multiple items in one smooth swipe.**
 
+![Items restored back to original state including Deepslate](docs/06_undo_result_deepslate_back.jpg)
 ![Hold D and swipe to delete multiple items at once](docs/03_swipe_delete_multiple.jpg)
 
 **Press `Z` to undo — the entire deleted batch is restored to your inventory at once.**
@@ -26,7 +27,7 @@ A lightweight, quality-of-life (QoL) Minecraft 1.20.1 mod (compatible with Forge
 
 **Items are restored back to exactly the type and stack size they were before deletion.**
 
-![Items restored back to original state including Deepslate](docs/06_undo_result_deepslate_back.jpg)
+
 
 ---
 
