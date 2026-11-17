@@ -33,11 +33,11 @@ A lightweight, quality-of-life (QoL) Minecraft 1.20.1 mod (compatible with Forge
 
 ## Features
 
-1. **Swipe-to-Delete (Hold & Drag)**
+1. **Swipe-to-Delete (No need for holding)**
    - **Default Key**: `D` (customizable in controls).
-   - Works only while inside container screens (inventory, chest, shulker box, crafting table, etc.).
+   - Works in containers as well (inventory, chest, shulker box, crafting table, etc.).
    - **Single Delete**: Hover over an item and press `D` to delete it instantly.
-   - **Continuous Swipe**: **Hold down `D` and drag your cursor** across slots to continuously delete items in a fast, fluid motion.
+   - **Continuous Swipe**: **Hold down `D` and slide your cursor** across slots to continuously delete items in a fast, fluid motion.
 
 2. **Delete All Matching Items (Shift + D)**
    - Hover over any item in your inventory or container and press **`Shift + D`**.
@@ -79,7 +79,6 @@ You can configure the key bindings anytime via:
 1. Install **Minecraft Forge 1.20.1** (version 47.x).
 2. Download the latest `quicktrash-x.x.x-1.20.1.jar` from the [Releases](../../releases) page.
 3. Drop the `.jar` file into your `.minecraft/mods` folder.
-4. Launch the game and enjoy!
 
 > **Multiplayer Note**: Both the client and the server must have this mod installed for it to work in multiplayer.
 
