@@ -1,6 +1,16 @@
-# Quick Trash
+# 🗑️ Quick Trash
 
-A lightweight, quality-of-life (QoL) Minecraft 1.20.1 mod (compatible with Forge 47.3.0+ and NeoForge 1.20.1).
+**Keep your inventory clean in seconds!** **Quick Trash** is a lightweight, vanilla-friendly Quality of Life (QoL) mod that lets you instantly delete and restore items directly from your inventory screen without dragging anything into a trash can.
+
+## ⭐ Features
+
+- ⌨️ **Fully Customizable Keybinds**: Easily change both the Delete and Undo keys anytime in your game controls.
+- ⚡ **No Dragging Required!** Simply hover your cursor over the item and tap **`D`** (saving you ~0.5s per item…).
+- 📦 **Bulk Delete (Shift + D)**: Clear ALL matching items of the same type across your container in a single press.
+- 🧹 **Swipe-to-Delete**: Hold down **`D`** and smoothly glide your mouse across slots to wipe out rows of junk instantly.
+- ↩️ **Full Undo Support**: Restores the exact quantity from your last deletion (even multi-stack batches!), with up to 64 undo steps.
+- 🔊 **Satisfying Sound Effects**: Crisp extinguish and pickup audio cues give you instant, tactile feedback.
+- 🪶 **Lightweight & Desync-Free**: Minimal code, zero lag, fully server-synchronized with no ghost items.
 
 ## Showcase
 
