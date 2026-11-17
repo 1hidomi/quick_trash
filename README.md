@@ -75,6 +75,22 @@ You can configure the key bindings anytime via:
 | Delete All Matching Items | `Shift + D` |
 | Undo Last Deletion | `Z` |
 
+## 📦 Supported Versions
+
+| Minecraft Version | Mod Loader | Status |
+|---|---|---|
+| 1.20.1 | Forge | Available |
+| 1.20.1 | NeoForge | Available |
+| 26.3 | Forge | Available |
+| 26.3 | NeoForge | Available |
+
+## 📥 Downloads
+
+Download the version matching your Minecraft version and mod loader.
+
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/quick-trash)
+- [Modrinth](https://modrinth.com/mod/quicktrash)
+
 ## Installation
 
 Drop the `.jar` file into your `.minecraft/mods` folder.
