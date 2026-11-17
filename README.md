@@ -12,31 +12,23 @@
 - 🔊 **Satisfying Sound Effects**: Crisp extinguish and pickup audio cues give you instant, tactile feedback.
 - 🪶 **Lightweight & Desync-Free**: Minimal code, zero lag, fully server-synchronized with no ghost items.
 
-## Showcase
+## 📷 Showcase
 
 **Hover over an item and press `D` to delete it instantly.**
 
-![Hover over the item you want to delete](https://raw.githubusercontent.com/1hidomi/quicktrash_forge_1.20.1/master/docs/01_hover_before_delete.jpg)
+![Hover over item](https://raw.githubusercontent.com/1hidomi/quick_trash/master/quicktrash_%28neo%29forge_1.20.1-1.0.0/docs/01_hover_before_delete.jpg)
 
-**The item is immediately deleted — a "Lava hisses" sound plays as confirmation.**
+**The item is immediately removed with a crisp sound.**
 
-![Press D to delete the item](https://raw.githubusercontent.com/1hidomi/quicktrash_forge_1.20.1/master/docs/02_press_D_deleted.jpg)
+![Item deleted](https://raw.githubusercontent.com/1hidomi/quick_trash/master/quicktrash_%28neo%29forge_1.20.1-1.0.0/docs/02_press_D_deleted.jpg)
 
-**Hold `D` and drag your cursor across slots to delete multiple items in one smooth swipe.**
+**Hold `D` and drag across slots to delete multiple items in one swipe.**
 
-![Hold D and swipe to delete multiple items at once](https://raw.githubusercontent.com/1hidomi/quicktrash_forge_1.20.1/master/docs/03_swipe_delete_multiple.jpg)
+![Hold D and swipe](https://raw.githubusercontent.com/1hidomi/quick_trash/master/quicktrash_%28neo%29forge_1.20.1-1.0.0/docs/03_swipe_delete_multiple.jpg)
 
-**Press `Z` to undo — the entire deleted batch is restored to your inventory at once.**
+**Press `Z` to undo — the entire deleted batch is restored at once.**
 
-![Press Z to undo — items are restored to your inventory](https://raw.githubusercontent.com/1hidomi/quicktrash_forge_1.20.1/master/docs/04_undo_restored_hotbar.jpg)
-
-**All stacks from the undo step are returned, even if deleted by a swipe.**
-
-![All stacks from the last deletion are fully restored](https://raw.githubusercontent.com/1hidomi/quicktrash_forge_1.20.1/master/docs/05_undo_restored_inventory.jpg)
-
-**Items are restored back to exactly the type and stack size they were before deletion.**
-
-![Items restored back to original state including Deepslate](https://raw.githubusercontent.com/1hidomi/quicktrash_forge_1.20.1/master/docs/06_undo_result_deepslate_back.jpg)
+![Press Z to undo](https://raw.githubusercontent.com/1hidomi/quick_trash/master/quicktrash_%28neo%29forge_1.20.1-1.0.0/docs/04_undo_restored_hotbar.jpg)
 
 ---
 
