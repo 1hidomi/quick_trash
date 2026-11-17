@@ -93,4 +93,6 @@ You can configure the key bindings anytime via:
 
 ## License
 
-This project is licensed under the MIT License.
+Copyright (c) 2026 1hidomi. **All Rights Reserved**.
+
+Redistribution, modification, and re-uploading of this mod or its source code are strictly prohibited without explicit written permission from the author. Modpack inclusion on CurseForge and Modrinth is permitted.

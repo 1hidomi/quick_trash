@@ -69,7 +69,7 @@ tasks.named('processResources', ProcessResources).configure {
         loader_version_range: '[47,)',
         mod_id: 'quicktrash',
         mod_name: 'Quick Trash',
-        mod_license: 'MIT',
+        mod_license: 'All Rights Reserved',
         mod_version: '1.0.0',
         mod_authors: 'User',
         mod_description: 'Swipe to delete items from inventory and undo support.'
