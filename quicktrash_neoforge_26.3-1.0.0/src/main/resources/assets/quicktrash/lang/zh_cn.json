@@ -1,0 +1,8 @@
+{
+    "key.categories.quicktrash": "快捷销毁 (Quick Trash)",
+    "key.quicktrash.delete": "长按滑动销毁物品",
+    "key.quicktrash.undo": "撤销上一次销毁",
+    "message.quicktrash.undo_success": "§a已恢复物品: %s",
+    "message.quicktrash.undo_success_count": "§a已恢复物品: %s x%d",
+    "message.quicktrash.undo_empty": "§c没有可撤销的已销毁物品"
+}
